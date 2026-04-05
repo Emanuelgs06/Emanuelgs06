@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Emanuel Guerra de Santana, tenho 19 anos e sou natural de Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sempre gostei de tecnologia e das infinitas possibilidades que posso criar através dela
+Me chamo Emanuel Guerra de Santana, tenho 19 anos e sou natural de Brasília-DF. Atualmente, curso Análise e Desenvolvimento de Sistemas pela Estácio.
+
+Sempre tive interesse por tecnologia, principalmente pela curiosidade de entender como tudo funciona por trás da tela. Com o tempo, esse interesse foi crescendo e hoje busco desenvolver minhas próprias soluções.
+
+Tenho conhecimentos em HTML e CSS, além de estar no início da exploração em JavaScript, buscando evoluir na área de desenvolvimento front-end.
 
 ---
 
@@ -45,7 +49,6 @@ Me chamo Emanuel Guerra de Santana, tenho 19 anos e sou natural de Brasília-DF.
 <br/>
 
 ---
-
 ###
 <div> 
   <a href = "mailto:emanuelgds2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
