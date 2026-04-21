@@ -55,3 +55,12 @@ Tenho conhecimentos em HTML e CSS, além de estar no início da exploração em 
   <a href="https://www.linkedin.com/in/emanuelguerra06/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+---
+###
+markdown### 🚀 Projetos
+
+#### 🍕 Pizzaria Bagos
+Landing page de pizzaria com design system, menu mobile responsivo e JavaScript vanilla.
+
+[Ver repositório](https://github.com/Emanuelgs06/Pizzaria_Bagos) | [Ver ao vivo](https://emanuelgs06.github.io/Pizzaria_Bagos/)
