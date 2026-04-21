@@ -58,7 +58,7 @@ Tenho conhecimentos em HTML e CSS, além de estar no início da exploração em 
 
 ---
 ###
-markdown### 🚀 Projetos
+### 🚀 Projetos
 
 #### 🍕 Pizzaria Bagos
 Landing page de pizzaria com design system, menu mobile responsivo e JavaScript vanilla.
