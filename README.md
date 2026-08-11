@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Emanuel Guerra de Santana, tenho 19 anos e sou natural de Brasília-DF. Atualmente, curso Análise e Desenvolvimento de Sistemas pela Estácio.
+Me chamo Emanuel Guerra, tenho 19 anos e sou natural de Brasília-DF. Atualmente, curso Análise e Desenvolvimento de Sistemas pela UniProcessos.
 
 Sempre tive interesse por tecnologia, principalmente pela curiosidade de entender como tudo funciona por trás da tela. Com o tempo, esse interesse foi crescendo e hoje busco desenvolver minhas próprias soluções.
 
