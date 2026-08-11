@@ -1,6 +1,6 @@
 ## 👨‍💻 Emanuel Guerra
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Emanuel Guerra de Santana, tenho 19 anos e sou natural de Brasília-DF. Atualmente, curso Análise e Desenvolvimento de Sistemas pela Estácio.
 
