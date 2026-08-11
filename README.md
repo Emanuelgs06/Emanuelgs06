@@ -71,16 +71,7 @@ Tenho conhecimentos em HTML e CSS, além de estar no início da exploração em 
 ###
 <div> 
   <a href = "mailto:emanuelgds2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:emanuelgds2006l@gmail.com" target="_blank">
-    <img 
-        align="left" 
-        alt="Gmail" 
-        title="Gmail"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" 
-    />
-</a>
+ <a href="https://www.linkedin.com/in/emanuelguerra06/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
